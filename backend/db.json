@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "Arthur Burakh",
+      "email": "artBurakh@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Isidor Burakh",
+      "email": null,
+      "id": 2
+    },
+    {
+      "name": "Burat Armin",
+      "email": "burat@gmail",
+      "id": 3
+    }
+  ]
+}
